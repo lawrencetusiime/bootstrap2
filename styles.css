@@ -1,0 +1,52 @@
+body {
+    background-color: #333;
+    color: #fff;
+}
+
+.navbar {
+    background-color: rgb(124, 21, 21);
+}
+
+.navbar-brand, .nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: #e65c00;
+}
+
+.login-container {
+    max-width: 400px;
+    margin: 100px auto;
+    padding: 20px;
+    background-color: #444;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.login-container h2 {
+    margin-bottom: 20px;
+}
+
+.btn-primary {
+    background-color: #ff6a00;
+    border-color: #ff6a00;
+}
+
+.btn-primary:hover {
+    background-color: #e65c00;
+    border-color: #e65c00;
+}
+
+.forgot {
+    color: lightcoral;
+}
+
+.text-muted {
+    color: #999;
+}
+
+.p {
+    background-color: 0;
+    border: 2px solid chocolate;
+}
